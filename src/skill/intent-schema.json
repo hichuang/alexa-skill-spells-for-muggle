@@ -1,0 +1,47 @@
+{
+  "intents": [
+    {
+      "intent": "TeachSpell",
+      "slots": [
+        {
+          "name": "Spell",
+          "type": "LIST_OF_SPELLS"
+        }
+      ]
+    },
+    {
+      "intent": "CastSpell",
+      "slots": [
+        {
+          "name": "Spell",
+          "type": "LIST_OF_SPELLS"
+        }
+      ]
+    },
+    {
+      "intent": "WhichSpell",
+      "slots": [
+        {
+          "name": "Action",
+          "type": "LIST_OF_ACTIONS"
+        },
+        {
+          "name": "Object",
+          "type": "LIST_OF_OBJECTS"
+        }
+      ]
+    },
+    {
+      "intent": "SpellQuiz"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

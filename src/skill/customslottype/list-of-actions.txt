@@ -1,0 +1,17 @@
+LIST_OF_ACTIONS
+summon
+open
+remove
+stop
+slow down
+immobilize
+light up
+bright
+illuminate
+extinguish
+hide
+paralyze
+repair
+silence
+levitate
+fly

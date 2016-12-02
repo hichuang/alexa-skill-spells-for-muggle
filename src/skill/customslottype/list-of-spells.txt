@@ -1,0 +1,12 @@
+LIST_OF_SPELLS
+Accio
+Alohomora
+Expelliarmus
+Impedimenta
+Lumos
+Nox
+Obliviate
+Petrificus Totalus
+Reparo
+Silencio
+Wingardium Leviosa

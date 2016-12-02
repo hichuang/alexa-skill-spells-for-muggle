@@ -1,0 +1,76 @@
+TeachSpell teach me a spell
+TeachSpell teach me a charm
+TeachSpell teach me an incantation
+TeachSpell teach me cast a spell
+TeachSpell teach me how to spell
+TeachSpell teach me how to charm
+TeachSpell teach me how to cast a spell
+TeachSpell what is {Spell}
+TeachSpell what does {Spell} do
+TeachSpell what is the spell for {Spell}
+TeachSpell explain {Spell}
+CastSpell {Spell}
+WhichSpell which spell do I use if I want to {Action} {Object}
+WhichSpell which spell do I use if I want to {Action} a {Object}
+WhichSpell which spell do I use if I want to {Action} an {Object}
+WhichSpell which spell do I use if I want to {Action} the {Object}
+WhichSpell which spell do I use if I want to {Action} my {Object}
+WhichSpell which spell do I use if I want to make {Object} {Action}
+WhichSpell which spell do I use if I want to make my {Object} {Action}
+WhichSpell I want to {Action} {Object}
+WhichSpell I want to {Action} a {Object}
+WhichSpell I want to {Action} an {Object}
+WhichSpell I want to {Action} the {Object}
+WhichSpell I want to {Action} my {Object}
+WhichSpell I want to make {Object} {Action}
+WhichSpell spell to {Action} {Object}
+WhichSpell spell to {Action} a {Object}
+WhichSpell spell to {Action} an {Object}
+WhichSpell spell to {Action} the {Object}
+WhichSpell spell to {Action} my {Object}
+WhichSpell spell to make {Object} {Action}
+WhichSpell spell to make my {Object} {Action}
+WhichSpell spell that {Action} {Object}
+WhichSpell spell that {Action} a {Object}
+WhichSpell spell that {Action} an {Object}
+WhichSpell spell that {Action} the {Object}
+WhichSpell spell that {Action} my {Object}
+WhichSpell spell that makes {Object} {Action}
+WhichSpell spell that makes my {Object} {Action}
+WhichSpell how to {Action} {Object}
+WhichSpell how to {Action} a {Object}
+WhichSpell how to {Action} an {Object}
+WhichSpell how to {Action} the {Object}
+WhichSpell how to {Action} my {Object}
+WhichSpell how to make {Object} {Action}
+WhichSpell how to make my {Object} {Action}
+WhichSpell how do I {Action} {Object}
+WhichSpell how do I {Action} a {Object}
+WhichSpell how do I {Action} an {Object}
+WhichSpell how do I {Action} the {Object}
+WhichSpell how do I {Action} my {Object}
+WhichSpell how do I make {Object} {Action}
+WhichSpell how do I make my {Object} {Action}
+WhichSpell which spell {Action} {Object}
+WhichSpell which spell {Action} a {Object}
+WhichSpell which spell {Action} an {Object}
+WhichSpell which spell {Action} the {Object}
+WhichSpell which spell {Action} my {Object}
+WhichSpell which spell makes {Object} {Action}
+WhichSpell which spell makes my {Object} {Action}
+WhichSpell which spell do I use if I want to {Action}
+WhichSpell {Action} {Object}
+WhichSpell {Action} a {Object}
+WhichSpell {Action} an {Object}
+WhichSpell {Action} the {Object}
+WhichSpell {Action} my {Object}
+WhichSpell makes {Object} {Action}
+WhichSpell my {Object} {Action}
+WhichSpell I want to {Action}
+WhichSpell spell to {Action}
+WhichSpell spell that {Action} 
+WhichSpell how to {Action}
+SpellQuiz start a quiz
+SpellQuiz start playing
+SpellQuiz play
+SpellQuiz spell quiz

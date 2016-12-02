@@ -1,0 +1,17 @@
+LIST_OF_OBJECTS
+door
+lock
+window
+light
+memory
+thing
+stuff
+object
+victim
+wizard
+person
+people
+creature
+amazon echo
+macbook
+laptop
